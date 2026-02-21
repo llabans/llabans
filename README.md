@@ -20,7 +20,7 @@
 ---
 
 ### ⚕️ About me
-I am a medical doctor with experience in epidemiology and biostatistics, passionate about the intersection of healthcare, machine learning, and cloud technologies (MLops). I strive to leverage data to drive better health outcomes and bridge the gap between clinical knowledge and advanced analytics. I am currently working on applying ML/AI models to epidemiological data.
+I am a medical doctor with experience in epidemiology and biostatistics, focusing on the intersection of healthcare, machine learning, and cloud technologies (MLops). I use data to accurately estimate outcomes and bridge the gap between clinical knowledge and advanced analytics. I am currently working on applying ML/AI models to epidemiological data.
 
 - 📄 See more here: [CV](./100226_CV_luislaban.pdf)
 

@@ -1,28 +1,29 @@
 <h1 align="center">Hi 👋, I'm Luis Labán Seminario (@llabans)</h1>
-<h3 align="center">MD. Epidemiology & Biostats | Bridging ML/AI & Cloud in Health</h3>
-
----
-
-### 💻 Langs
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=llabans&layout=compact&bg_color=0d1117&title_color=4ade80&text_color=e5e7eb&count_private=true&hide=html" alt="Top Languages" />
-</p>
-
-
-### 📈 Github stats
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=llabans&show_icons=true&bg_color=0d1117&title_color=a855f7&text_color=e5e7eb&icon_color=4ade80&count_private=true" alt="llabans's GitHub stats" />
-</p>
-
+<h3 align="center">MD · Epidemiology & Biostatistics · ML/LLMs for health · Responsible AI</h3>
 
 ---
 
 ### ⚕️ About me
-I am a medical doctor with experience in epidemiology and biostatistics, focusing on the intersection of healthcare, machine learning, and cloud technologies (MLops). I use data to accurately estimate outcomes and bridge the gap between clinical knowledge and advanced analytics. I am currently working on applying ML/AI models to epidemiological data.
+I am a medical doctor (MD) working in **epidemiology and biostatistics**, focused on how data and AI can be used **reliably and responsibly in health**.
+
+- 🌍 **Burden of disease**: estimating disease burden for Peru's Ministry of Health (GBD-style methods).
+- 🤖 **LLMs in health**: building and evaluating an LLM assistant grounded in clinical practice guidelines, with attention to accuracy, hallucinations and safe use.
+- 📊 **Biostatistics**: cohort analyses (CRONICAS cohort, inflammation and metabolic syndrome), survival models, survey data (ENDES/DHS).
+- 🎓 MSc student in Statistical Science & Engineering (UNI); coursework completed in the MSc in Epidemiological Research (UPCH). RENACYT researcher.
+- 🔭 Interested in **AI safety and evaluation**: making sure ML/LLM systems used in medicine are measurable, robust and aligned with patient benefit.
 
 - 📄 See more here: [CV](./100226_CV_luislaban.pdf)
+
+---
+
+### 📈 GitHub stats
+
+<p align="left">
+  <img src="./profile/stats.svg" alt="llabans's GitHub stats" height="165" />
+  <img src="./profile/top-langs.svg" alt="Top languages" height="165" />
+</p>
+
+<sub>Cards are generated daily by a GitHub Action (<code>.github/workflows/readme-cards.yml</code>) and stored in this repo.</sub>
 
 ---
 

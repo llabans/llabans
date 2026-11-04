@@ -9,10 +9,10 @@ I am a medical doctor (MD) working in **epidemiology and biostatistics**, focuse
 - 🌍 **Burden of disease**: estimating disease burden for Peru's Ministry of Health (GBD-style methods).
 - 🤖 **LLMs in health**: building and evaluating an LLM assistant grounded in clinical practice guidelines, with attention to accuracy, hallucinations and safe use.
 - 📊 **Biostatistics**: cohort analyses (CRONICAS cohort, inflammation and metabolic syndrome), survival models, survey data (ENDES/DHS).
-- 🎓 MSc student in Statistical Science & Engineering (UNI); coursework completed in the MSc in Epidemiological Research (UPCH). RENACYT researcher.
+- 🎓 MSc candidate in Statistical Engineering (UNI); coursework completed in the MSc in Epidemiological Research (UPCH). RENACYT researcher.
 - 🔭 Interested in **AI safety and evaluation**: making sure ML/LLM systems used in medicine are measurable, robust and aligned with patient benefit.
 
-- 📄 See more here: [CV](./100226_CV_luislaban.pdf)
+- 📄 See more here: [CV (November 2026)](./Laban_Seminario_CV_EN.pdf)
 
 ---
 
